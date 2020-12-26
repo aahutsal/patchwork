@@ -50,7 +50,7 @@
     "multiserver-dht": "^4.0.0",
     "mutant": "github:mmckegg/mutant#intersection-binding-viewport",
     "mutant-pull-reduce": "^1.1.0",
-    "node-abi": "^2.5.0",
+    "node-abi": "^2.19.3",
     "patch-settings": "^1.1.2",
     "pull-abortable": "^4.1.1",
     "pull-cat": "^1.1.11",
